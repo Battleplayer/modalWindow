@@ -14,7 +14,7 @@ import {LoginComponent} from './login/login.component';
         ToolbarComponent,
         LoginComponent
     ],
-    entryComponents:[LoginComponent]
+    entryComponents: [LoginComponent]
 })
 export class ToolbarModule {
 }
